@@ -1,0 +1,546 @@
+Film,Year,Body_Count,MPAA_Rating,Genre,Director,Length_Minutes,IMDB_Rating
+24 Hour Party People,2002,7,R,Biography|Comedy|Drama|Music,Michael Winterbottom,117,7.3
+28 Days Later,2002,53,R,Horror|Sci-Fi|Thriller,Danny Boyle,113,7.6
+28 Weeks Later,2007,212,R,Horror|Sci-Fi|Thriller,Juan Carlos Fresnadillo,100,7.0
+30 Days of Night,2007,67,R,Horror|Thriller,David Slade,113,6.6
+300,2007,600,R,Action|Fantasy|History|War,Zack Snyder,117,7.7
+3:10 To Yuma,2007,45,R,Adventure|Crime|Drama|Western,James Mangold,122,7.8
+8MM,1999,1,R,Crime|Mystery|Thriller,Joel Schumacher,123,6.4
+A Better Tomorrow,1986,65,R,Action|Crime|Drama|Thriller,John Woo,95,7.5
+A Better Tomorrow II,1987,199,R,Action|Crime|Drama|Thriller,John Woo,105,7.3
+A Bridge Too Far,1977,243,PG,Drama|History|War,Richard Attenborough,175,7.4
+A Christmas Story,1983,4,PG,Comedy|Family,Bob Clark,94,8.1
+A Clockwork Orange,1971,7,X,Crime|Drama|Sci-Fi,Stanley Kubrick,136,8.4
+A Fistful of Dollars,1964,109,M,Western,Sergio Leone,99,8.0
+A Fistful of Dynamite,1971,471,PG,Adventure|Western,Sergio Leone,138,7.7
+A History of Violence,2005,13,R,Crime|Drama|Thriller,David Cronenberg,96,7.5
+A Man Apart,2003,39,R,Action|Crime|Drama|Thriller,F. Gary Gray,109,6.0
+A Nightmare on Elm Street,1984,4,R,Horror,Wes Craven,91,7.5
+Above the Law,1988,18,R,Action|Crime|Drama|Thriller,Andrew Davis,99,5.8
+Action Jackson,1988,17,R,Action|Comedy|Crime|Thriller,Craig R. Baxley,96,4.9
+Aeon Flux,2005,58,PG-13,Action|Sci-Fi,Karyn Kusama,93,5.4
+Air Force One,1997,54,R,Action|Adventure|Drama,Wolfgang Petersen,124,6.4
+Akira,1988,119,R,Animation|Horror|Sci-Fi,Katsuhiro Ohtomo,124,8.0
+Alexander,2005,119,R,Action|Adventure|Biography,Oliver Stone,175,5.4
+Ali G Indahouse,2002,11,R,Comedy,Mark Mylod,85,6.1
+Alien,1979,1,R,Horror|Sci-Fi,Ridley Scott,117,8.5
+Aliens,1986,68,R,Action|Adventure|Sci-Fi,James Cameron,137,8.5
+Aliens vs. Predator: Requiem,2007,5,R,Action|Horror|Sci-Fi|Thriller,Colin Strause|Greg Strause,94,4.7
+Alpha Dog,2007,3,R,Biography|Crime|Drama,Nick Cassavetes,122,6.9
+Altered States,1980,5,R,Drama|Fantasy|Horror|Sci-Fi|Thriller,Ken Russell,102,6.9
+American Gangster,2007,15,R,Biography|Crime|Drama,Ridley Scott,157,7.8
+American Ninja,1985,114,R,Action|Adventure|Romance|Sport,Sam Firstenberg,95,5.1
+American Pop,1981,61,R,Animation|Drama|Music,Ralph Bakshi,96,6.9
+American Psycho,2000,18,R,Crime|Drama,Mary Harron,102,7.6
+American Yakuza,1993,53,R,Action|Crime|Drama|Thriller,Frank A. Cappello,96,5.7
+Another Day In Paradise,1997,9,R,Crime|Drama|Thriller,Larry Clark,101,6.5
+Apocalypse Now,1979,62,R,Drama|War,Francis Ford Coppola,153,8.5
+Apocalypto,2006,114,R,Action|Adventure|Drama|Thriller,Mel Gibson,139,7.8
+Appaloosa,2008,10,R,Crime|Drama|Western,Ed Harris,115,6.8
+Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,67,R,Animation|Action|Adventure,Matt Maiellaro|Dave Willis,86,6.8
+Armageddon,1998,16,PG-13,Action|Adventure|Sci-Fi|Thriller,Michael Bay,151,6.5
+Assault On Precinct 13,1976,39,R,Action|Crime|Thriller,John Carpenter,91,7.4
+Assault On Precinct 13,2005,21,R,Action|Drama|Crime|Thriller,Jean-Francois Richet,109,6.3
+Atonement,2007,34,R,Drama|Mystery|Romance|War,Joe Wright,123,7.8
+Austin Powers in Goldmember,2002,6,PG-13,Action|Comedy|Crime,Jay Roach,94,6.1
+Bad Boys,1995,30,R,Action|Comedy|Crime|Drama|Thriller,Michael Bay,118,6.7
+Bad Boys II,2003,63,R,Action|Comedy|Crime|Thriller,Michael Bay,147,6.4
+Bangkok Dangerous,2008,38,R,Action|Crime|Thriller,Oxide Pang Chun|Danny Pang,99,5.4
+Barton Fink,1991,3,R,Drama|Mystery,Joel Coen|Ethan Coen,116,7.7
+Batman,1989,56,PG-13,Action|Thriller,Tim Burton,126,7.6
+Batman Begins,2005,18,PG-13,Action|Adventure|Crime|Drama,Christopher Nolan,140,8.3
+Batman Returns,1992,18,PG-13,Action|Fantasy,Tim Burton,126,6.9
+Battlefield Earth,2000,51,PG-13,Action|Sci-Fi,Roger Christian,118,2.4
+Behind Enemy Lines,2001,96,PG-13,Action|War|Drama,John Moore,106,6.3
+Beowulf,2007,51,PG-13,Animation|Action|Adventure,Robert Zemeckis,115,6.3
+Big Trouble In Little China,1986,46,PG-13,Action|Adventure|Comedy|Fantasy,John Carpenter,99,7.2
+Black Dynamite,2009,66,R,Action|Comedy,Scott Sanders,84,7.3
+Black Hawk Down,2001,135,R,Drama|History|War,Ridley Scott,144,7.7
+Blade,1998,111,R,Action|Fantasy|Horror,Stephen Norrington,120,7.1
+Blade II,2002,98,R,Action|Horror|Sci-Fi|Thriller,Guillermo del Toro,117,6.6
+Blade Runner,1982,5,R,Drama|Sci-Fi|Thriller,Ridley Scott,117,8.2
+Blade: Trinity,2004,140,R,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,David S. Goyer,113,5.8
+Blood Diamond,2006,187,R,Adventure|Drama|Thriller,Edward Zwick,143,8.0
+Blood and Chocolate,2007,256,PG-13,Drama|Fantasy|Horror,Katja von Garnier,98,5.3
+BloodRayne,2006,102,R,Action|Adventure|Fantasy|Horror,Uwe Boll,95,2.8
+Braindead,1992,72,R,Comedy|Horror,Peter Jackson,104,7.6
+Braveheart,1995,184,R,Action|Biography|Drama|History|War,Mel Gibson,177,8.4
+Brazil,1985,25,R,Drama|Fantasy|Sci-Fi,Terry Gilliam,132,8.0
+Bridge of Dragons,1999,109,R,Action|Romance|Sci-Fi|Thriller,Isaac Florentine,92,4.4
+Broken Arrow,1996,25,R,Action|Adventure|Thriller,John Woo,108,5.9
+Brotherhood of the Wolf,2001,40,R,Action|Adventure|History,Christophe Gans,142,7.0
+Buffalo Soldiers,2001,16,R,Comedy|Crime|Drama|Thriller|War,Gregor Jordan,98,6.8
+Bullet in the Head,1990,214,Unrated,Crime|Drama|Thriller,John Woo,136,7.6
+Bulletproof Monk,2003,37,PG-13,Action|Comedy|Fantasy,Paul Hunter,104,5.4
+Cabin Fever,2002,19,R,Horror|Sci-Fi,Eli Roth,93,5.5
+Casino,1995,25,R,Biography|Crime|Drama,Martin Scorsese,178,8.2
+Casino Royale,2006,54,PG-13,Action|Crime|Thriller,Martin Campbell,144,7.9
+Charlie Wilson's War,2007,22,R,Biography|Comedy|Drama|History,Mike Nichols,102,7.1
+Charlie's Angels: Full Throttle,2003,39,PG-13,Action|Adventure|Comedy|Crime,McG,106,4.7
+Children of Men,2006,77,R,Adventure|Drama|Sci-Fi|Thriller,Alfonso Cuaron,109,7.9
+Chimes at Midnight,1965,148,Unrated,Comedy|Drama|War,Orson Welles,115,7.9
+Christine,1983,6,R,Drama|Horror|Mystery|Thriller,John Carpenter,110,6.5
+"Chronicles of Narnia: The Lion, the Witch & the Wardrobe",2005,86,PG,Adventure|Family|Fantasy,Andrew Adamson,143,6.8
+Circus,2000,8,R,Crime|Thriller|Drama,Rob Walker,95,5.7
+City of God,2002,60,R,Crime|Drama,Fernando Meirelles|Katia Lund,130,8.7
+Class of 1999,1990,43,R,Action|Horror|Sci-Fi,Mark L. Lester,99,5.5
+Clear & Present Danger,1994,41,PG-13,Action|Drama|Thriller,Phillip Noyce,141,6.9
+Cloverfield,2008,27,PG-13,Action|Sci-Fi|Thriller,Matt Reeves,85,7.1
+Collateral,2004,17,R,Crime|Drama|Thriller,Michael Mann,120,7.6
+Collateral Damage,2002,90,R,Action|Drama|Thriller,Andrew Davis,108,5.4
+Come Drink With Me,1966,213,Unrated,Crime,King Hu,95,7.1
+Come and See,1985,75,Unrated,Drama|History|War,Elem Klimov,140,8.2
+Commando,1985,88,R,Action|Thriller,Mark L. Lester,90,6.5
+Companeros,1970,133,R,Western|Comedy,Sergio Corbucci,118,7.5
+Con Air,1997,30,R,Action|Crime|Thriller,Simon West,115,6.8
+Conan the Barbarian,1982,114,R,Action|Fantasy|Adventure,John Milius,129,6.8
+Confessions of a,2002,50,R,Biography|Comedy|Crime|Drama|Thriller,George Clooney,113,7.1
+Congo,1995,92,PG-13,Action|Adventure|Mystery,Frank Marshall,109,4.9
+Conspiracy Theory,1997,7,R,Action|Crime|Mystery|Romance|Thriller,Richard Donner,135,6.6
+Constantine,2005,7,R,Fantasy|Horror,Francis Lawrence,121,6.8
+Contract Killer,1998,25,R,Action|Comedy,Wei Tung,103,6.2
+Cradle 2 the Grave,2003,13,R,Action|Crime|Drama|Thriller,Andrzej Bartkowiak,101,5.6
+Crank,2006,29,R,Action|Crime|Thriller,Mark Neveldine|Brian Taylor,88,7.0
+Creepshow,1982,15,R,Comedy|Horror,George A. Romero,120,6.7
+Crime Spree,2003,20,R,Action|Comedy|Crime,Brad Mirman,98,6.4
+Cross of Iron,1977,147,R,Action|Drama|War,Sam Peckinpah,119,7.5
+"Crouching Tiger, Hidden Dragon",2000,14,PG-13,Action|Drama|Romance,Ang Lee,120,7.9
+Crying Freeman,1995,82,Unrated,Action|Crime|Thriller,Christophe Gans,102,6.5
+Dark Blue,2002,8,R,Crime|Drama|Thriller,Ron Shelton,118,6.6
+Das Boot,1981,49,R,Action|Adventure|Drama,Wolfgang Petersen,149,8.4
+Dawn of the Dead,1978,175,R,Action|Horror,George A. Romero,127,8.0
+Dawn of the Dead,2004,131,R,Action|Horror|Sci-Fi|Thriller,Zack Snyder,101,7.4
+Day of the Dead,1985,40,Unrated,Horror,George A. Romero,96,7.1
+Death Rides a Horse,1967,54,R,Western,Giulio Petroni,114,7.1
+Death Sentence,2007,15,R,Action|Crime|Drama|Thriller,James Wan,105,6.8
+Death Wish 3,1985,80,X,Action|Crime|Drama,Michael Winner,92,5.7
+Death Wish 4: The Crackdown,1987,57,R,Action|Crime|Drama,J. Lee Thompson,99,5.0
+Death to Smoochy,2002,3,R,Comedy|Crime|Drama|Thriller,Danny DeVito,109,6.3
+Delta Force 2,1990,92,R,Action|Adventure|Thriller|War,Aaron Norris,111,4.4
+Demolition Man,1993,25,R,Action|Crime|Sci-Fi|Thriller,Marco Brambilla,115,6.5
+Desperado,1995,80,R,Action|Crime|Thriller,Robert Rodriguez,104,7.1
+Diamonds are Forever,1971,29,GP,Action|Adventure|Crime|Thriller,Guy Hamilton,120,6.7
+Die Hard,1988,20,R,Action|Thriller,John McTiernan,131,8.3
+Die Hard 2,1990,37,R,Action|Thriller,Renny Harlin,124,7.1
+Die Hard: With a Vengeance,1995,26,R,Action|Crime|Thriller,John McTiernan,131,7.6
+District 9,2009,71,R,Action|Sci-Fi|Thriller,Neill Blomkamp,112,8.0
+District B13,2004,34,R,Action|Sci-Fi|Thriller,Pierre Morel,84,7.1
+Disturbia,2007,10,PG-13,Drama|Mystery|Thriller,D.J. Caruso,105,6.9
+Domino,2005,51,R,Action|Biography|Crime|Drama|Thriller,Tony Scott,127,5.9
+Donnie Darko,2001,3,R,Drama|Mystery|Sci-Fi,Richard Kelly,113,8.1
+Doom,2005,89,R,Action|Adventure|Horror,Andrzej Bartkowiak,100,5.2
+Doomsday,2008,188,R,Action|Sci-Fi,Neil Marshall,105,6.0
+Dr. No,1962,8,Approved,Action|Adventure|Crime|Thriller,Terence Young,110,7.3
+Dr. Strangelove,1964,33,PG,Comedy|Sci-Fi|War,Stanley Kubrick,95,8.5
+Dracula,1992,94,R,Drama|Fantasy|Horror,Francis Ford Coppola,128,7.4
+Dracula 2000,2000,18,R,Horror|Thriller,Patrick Lussier,99,4.8
+Dune,1984,186,PG-13,Action|Adventure|Sci-Fi,David Lynch,137,6.6
+El Cid,1961,160,Unrated,Adventure|Biography|Drama,Anthony Mann,182,7.2
+El Topo,1970,202,Unrated,Western,Alejandro Jodorowsky,125,7.5
+Enemy at the Gates,2001,174,R,Drama|History|Thriller,Jean-Jacques Annaud,131,7.5
+Equilibrium,2002,236,R,Action|Drama|Sci-Fi|Thriller,Kurt Wimmer,107,7.6
+Eraser,1996,52,R,Action|Drama|Mystery|Thriller,Chuck Russell,115,6.0
+Escape From New York,1981,28,R,Action|Sci-Fi,John Carpenter,99,7.2
+Evil Dead II: Dead by Dawn,1987,8,X,Comedy|Horror,Sam Raimi,84,7.8
+Excalibur,1981,168,R,Action|Drama|Fantasy,John Boorman,140,7.4
+eXistenZ,1999,11,R,Sci-Fi,David Cronenberg,97,6.8
+Exit Wounds,2001,38,R,Action|Comedy|Crime|Drama|Thriller,Andrzej Bartkowiak,101,5.4
+Face/Off,1997,56,R,Action|Crime|Sci-Fi|Thriller,John Woo,138,7.3
+Fair Game,1995,21,R,Action|Thriller,Andrew Sipes,91,4.0
+Fantastic Four: Rise of the Silver Surfer,2007,6,PG,Action|Fantasy|Sci-Fi|Thriller,Tim Story,92,5.6
+Fear and Loathing in Las Vegas,1998,10,R,Adventure|Comedy,Terry Gilliam,118,7.7
+Fearless,2006,5,PG-13,Action|Biography|Drama|Sport,Ronny Yu,104,7.6
+Fight Club,1999,14,R,Drama,David Fincher,139,8.9
+Firewall,2006,5,PG-13,Crime|Thriller,Richard Loncraine,105,5.8
+Flags of Our Fathers,2006,93,R,Drama|History|War,Clint Eastwood,132,7.1
+Fool's Gold,2008,3,PG-13,Adventure|Comedy|Romance|Thriller,Andy Tennant,112,5.5
+For Your Eyes Only,1981,42,PG,Action|Adventure|Crime|Thriller,John Glen,127,6.8
+For a Few Dollars More,1965,42,M,Western,Sergio Leone,132,8.3
+Formula 51,2001,22,R,Action|Comedy|Crime|Thriller,Ronny Yu,93,6.2
+Four Brothers,2005,16,R,Action|Crime|Drama|Mystery|Thriller,John Singleton,109,6.8
+Friday the 13th,2009,14,R,Horror,Marcus Nispel,97,5.5
+From Dusk Till Dawn,1996,122,R,Action|Crime|Horror,Robert Rodriguez,108,7.2
+From Dusk Till Dawn 2: Texas Blood Money,1999,63,R,Comedy|Crime|Horror,Scott Spiegel,88,3.9
+From Russia With Love,1963,21,Approved,Action|Adventure|Crime|Thriller,Terence Young,115,7.5
+Galaxy Quest,1999,32,PG,Adventure|Comedy|Sci-Fi,Dean Parisot,102,7.2
+Gallipoli,1981,85,PG,Action|Drama|History,Peter Weir,110,7.5
+Gangs of New York,2002,109,R,Crime|Drama|History,Martin Scorsese,167,7.5
+Gangster No. 1,2000,7,R,Crime|Drama|Thriller,Paul McGuigan,103,6.8
+Get Carter,2000,5,R,Action|Crime|Drama|Thriller,Stephen Kay,102,4.9
+Ghost Rider,2007,52,PG-13,Action|Fantasy|Thriller,Mark Steven Johnson,114,5.2
+Glory,1989,258,R,Drama|History|War,Edward Zwick,122,7.9
+GoldenEye,1995,57,PG-13,Action|Crime|Thriller,Martin Campbell,130,7.2
+Grindhouse: Death Proof,2007,8,Unrated,Action|Thriller,Quentin Tarantino,113,7.1
+Grindhouse: Double Feature,2007,310,Unrated,Action|Horror|Thriller,Robert Rodriguez|Eli Roth|Quentin Tarantino|Edgar Wright|Rob Zombie,191,7.7
+Grindhouse: Planet Terror,2007,281,Unrated,Action|Horror,Robert Rodriguez,105,7.2
+Hamburger Hill,1987,106,R,Drama|War|Action,John Irvin,110,6.6
+Hamlet,1990,9,PG,Drama|Romance,Franco Zeffirelli,130,6.8
+Hannibal,2001,15,R,Crime|Drama|Thriller,Ridley Scott,131,6.6
+Hard Boiled,1992,307,R,Action|Crime|Drama|Thriller,John Woo,128,7.9
+Hard to Kill,1990,19,R,Action|Drama|Crime|Thriller,Bruce Malmuth,96,5.5
+Harry Potter & the Goblet of Fire,2005,3,PG-13,Adventure|Family|Fantasy|Mystery,Mike Newell,157,7.6
+Heat,1995,18,R,Action|Crime|Drama|Thriller,Michael Mann,170,8.3
+Hellboy,2004,42,PG-13,Action|Adventure|Fantasy|Sci-Fi,Guillermo del Toro,122,6.8
+Hero,2002,152,PG-13,Action|Drama|History,Yimou Zhang,99,7.9
+Hitman,2007,55,R,Action|Crime|Drama|Thriller,Xavier Gens,89,6.2
+Hollow Point,1996,17,R,Thriller|Comedy|Action,Sidney J. Furie,90,5.6
+Hostage,2005,16,R,Crime|Drama|Mystery|Thriller,Florent-Emilio Siri,113,6.6
+Hot Fuzz,2007,29,R,Action|Comedy,Edgar Wright,121,7.9
+Hot Shots!,1991,11,PG-13,Action|Comedy|War,Jim Abrahams,84,6.6
+Hot Shots! Part Deux,1993,114,PG-13,Action|Comedy|War,Jim Abrahams,86,6.4
+House of the Dead,2003,141,R,Action|Horror|Thriller,Uwe Boll,90,2.0
+House on Haunted Hill,1999,30,R,Horror|Mystery|Thriller,William Malone,93,5.5
+I Am Legend,2007,71,PG-13,Drama|Sci-Fi|Thriller,Francis Lawrence,101,7.1
+"I, Robot",2004,176,PG-13,Action|Mystery|Sci-Fi,Alex Proyas,115,7.1
+In Bruges,2008,5,R,Comedy|Crime|Drama|Thriller,Martin McDonagh,107,7.9
+In the Name of the King: A Dungeon Siege Tale,2007,329,PG-13,Action|Adventure|Drama,Uwe Boll,127,3.8
+Independence Day,1996,48,PG-13,Action|Sci-Fi,Roland Emmerich,145,6.8
+Indiana Jones & the Kingdom of the Crystal Skull,2008,76,PG-13,Action|Adventure,Steven Spielberg,122,6.3
+Indiana Jones and the Last Crusade,1989,48,PG-13,Action|Adventure,Steven Spielberg,127,8.3
+Indiana Jones and the Temple of Doom,1984,41,PG,Action|Adventure,Steven Spielberg,118,7.6
+Inglourious Basterds,2009,59,R,Adventure|Drama|War,Quentin Tarantino,153,8.3
+Inside Man,2006,13,R,Crime|Drama|Thriller,Spike Lee,129,7.6
+Invasion U.S.A.,1985,146,R,Action|Thriller,Joseph Zito,107,5.0
+Iron Man,2008,57,PG-13,Action|Adventure|Sci-Fi,Jon Favreau,126,7.9
+Jack Brooks: Monster Slayer,2007,15,R,Action|Comedy|Horror,Jon Knautz,85,6.0
+Jackie Brown,1997,4,R,Crime|Drama|Thriller,Quentin Tarantino,154,7.5
+Jason X,2001,27,R,Horror|Sci-Fi|Thriller,James Isaac,91,4.3
+Jumper,2008,7,PG-13,Action|Adventure|Sci-Fi|Thriller,Doug Liman,88,6.0
+Jurassic Park III,2001,6,PG-13,Action|Adventure|Fantasy|Sci-Fi|Thriller,Joe Johnston,92,5.8
+K-19: The Widowmaker,2002,10,PG-13,Drama|History|Thriller|War,Kathryn Bigelow,138,6.6
+Kelly's Heroes,1970,139,GP,Action|Adventure|Comedy|War,Brian G. Hutton,144,7.6
+Keoma,1976,76,Unrated,Action|Drama|Western,Enzo G. Castellari,105,7.2
+Kick-Ass,2010,64,R,Action|Comedy,Matthew Vaughn,117,7.8
+Kill Bill: Vol. 1,2003,95,R,Action|Crime,Quentin Tarantino,111,8.1
+Kill Bill: Vol. 2,2004,3,R,Action|Crime|Thriller,Quentin Tarantino,137,8.0
+King Arthur,2004,378,R,Action|Adventure|Drama,Antoine Fuqua,126,6.2
+King Kong,2005,23,PG-13,Action|Adventure|Drama|Romance,Peter Jackson,187,7.3
+King of New York,1990,38,X,Crime|Thriller,Abel Ferrara,103,6.9
+Kingdom of Heaven,2005,610,R,Action|Adventure|Drama|History|War,Ridley Scott,144,7.1
+Kiss Kiss Bang Bang,2005,15,R,Action|Comedy|Crime|Mystery,Shane Black,103,7.7
+Kung Fu Hustle,2004,20,R,Action|Comedy|Crime|Fantasy,Stephen Chow,99,7.7
+Land of the Dead,2005,217,R,Horror|Sci-Fi,George A. Romero,93,6.3
+Last Action Hero,1993,45,PG-13,Action|Adventure|Comedy|Family|Fantasy,John McTiernan,130,6.1
+Last Man Standing,1996,57,R,Action|Crime|Drama,Walter Hill,101,6.3
+Lawrence of Arabia,1962,180,PG,Adventure|Biography|Drama,David Lean,216,8.4
+Layer Cake,2004,8,R,Crime|Drama|Thriller,Matthew Vaughn,105,7.4
+League of Extraordinary Gentlemen,2003,55,PG-13,Action|Adventure|Fantasy,Stephen Norrington,110,5.7
+Leon,1994,33,R,Crime|Drama|Thriller,Luc Besson,110,8.6
+Leon,1994,33,R,Crime|Drama|Thriller,Luc Besson,110,8.6
+Lethal Weapon,1987,26,R,Action|Crime|Thriller,Richard Donner,110,7.6
+Lethal Weapon 2,1989,33,Unrated,Action|Thriller,Richard Donner,114,7.1
+Lethal Weapon 3,1992,17,Unrated,Action|Crime|Thriller,Richard Donner,118,6.6
+Lethal Weapon 4,1998,30,R,Action|Crime|Thriller,Richard Donner,127,6.6
+Letters from Iwo Jima,2006,84,R,Drama|History|War,Clint Eastwood,141,7.9
+Live and Let Die,1973,11,PG,Action|Adventure|Crime|Thriller,Guy Hamilton,121,6.8
+"Lock, Stock and Two Smoking Barrels",1998,16,R,Crime|Thriller,Guy Ritchie,107,8.2
+Lone Wolf McQuade,1983,61,PG,Action|Crime|Drama,Steve Carver,107,6.1
+Lone Wolf and Cub: Baby Cart in the Land of Demons,1973,90,Unrated,Action|Drama|Thriller,Kenji Misumi,89,7.8
+Lone Wolf and Cub: Baby Cart to Hades,1972,102,R,Action|Drama,Kenji Misumi,89,7.8
+Lone Wolf and Cub: Sword of Vengeance,1972,71,Unrated,Action|Drama,Kenji Misumi,83,7.9
+Lone Wolf and Cub: White Heaven in Hell,1974,169,Unrated,Action|Drama|Fantasy|History,Yoshiyuki Kuroda,83,7.5
+Lord of the Rings: Fellowship of the Ring,2001,118,PG-13,Action|Adventure|Fantasy,Peter Jackson,178,8.8
+Lord of the Rings: Return of the King,2003,836,PG-13,Action|Adventure|Fantasy,Peter Jackson,201,8.9
+Lord of the Rings: Two Towers,2002,468,PG-13,Action|Adventure|Fantasy,Peter Jackson,179,8.7
+Lucky Number Slevin,2006,19,R,Crime|Drama|Mystery,Paul McGuigan,110,7.7
+Machete,2010,81,R,Action|Crime|Thriller,Ethan Maniquis|Robert Rodriguez,105,6.7
+Mad Max,1979,9,R,Action|Adventure|Thriller,George Miller,88,7.0
+Mad Max 2: Road Warrior,1981,44,R,Action|Adventure|Thriller,George Miller,95,7.6
+Mad Max Beyond Thunderdome,1985,12,PG-13,Action|Adventure|Thriller,George Miller|George Ogilvie,107,6.1
+Major Dundee,1965,147,Approved,Adventure|War|Western,Sam Peckinpah,123,6.8
+Marked for Death,1990,34,R,Action|Crime|Drama|Thriller,Dwight H. Little,93,5.7
+Master and Commander: The Far Side of the World,2003,122,PG-13,Action|Adventure|Drama,Peter Weir,138,7.4
+Maverick,1994,4,PG,Action|Adventure|Comedy|Thriller|Western,Richard Donner,127,6.9
+Max Payne,2008,38,PG-13,Action|Crime|Drama|Mystery|Thriller,John Moore,100,5.3
+Maximum Risk,1996,18,R,Action|Adventure|Crime|Thriller,Ringo Lam,101,5.2
+McBain,1991,181,R,Action|Drama,James Glickenhaus,107,4.6
+Mean Machine,2001,3,R,Comedy|Drama|Sport,Barry Skolnick,99,6.4
+Memento,2000,4,R,Mystery|Thriller,Christopher Nolan,113,8.6
+Milk,2008,4,R,Biography|Drama|History,Gus Van Sant,128,7.6
+Minority Report,2002,4,PG-13,Action|Mystery|Sci-Fi|Thriller,Steven Spielberg,145,7.7
+Missing in Action,1984,100,R,Action|Adventure|Drama|Thriller|War,Joseph Zito,101,5.1
+Mission: Impossible,1996,9,PG-13,Action|Adventure|Thriller,Brian De Palma,110,7.0
+Mission: Impossible II,2000,37,PG-13,Action|Adventure|Thriller,John Woo,123,5.9
+Mission: Impossible III,2006,23,PG-13,Action|Adventure|Thriller,J.J. Abrams,126,6.8
+Mongol: The Rise of Genghis Khan,2007,200,R,Biography|Drama|History,Sergey Bodrov,126,7.3
+Monty Python and the Holy Grail,1975,48,PG,Adventure|Comedy|Fantasy,Terry Gilliam|Terry Jones,91,8.4
+Mortal Kombat,1995,11,PG-13,Action|Adventure|Fantasy|Sci-Fi|Thriller,Paul W.S. Anderson,101,5.6
+Mr. & Mrs. Smith,2005,43,PG-13,Action|Comedy|Romance,Doug Liman,120,6.4
+Mr. Brooks,2007,9,R,Crime|Drama|Mystery|Thriller,Bruce A. Evans,120,7.4
+Mulan,1998,43,G,Animation|Adventure|Family,Tony Bancroft|Barry Cook,88,7.4
+Munich,2005,49,R,Drama|History|Thriller,Steven Spielberg,164,7.6
+Mutant Chronicles,2008,310,R,Action|Adventure|Horror,Simon Hunter,111,5.2
+My Bloody Valentine 3D,2009,24,R,Horror|Thriller,Patrick Lussier,101,5.4
+Natural Born Killers,1994,98,R,Crime|Drama,Oliver Stone,118,7.2
+Navajo Joe,1966,82,NR,Western,Sergio Corbucci,93,6.3
+Next,2007,53,PG-13,Action|Sci-Fi|Thriller,Lee Tamahori,96,6.2
+Ninja Assassin,2009,137,R,Action|Crime|Thriller,James McTeigue,99,6.3
+No Country for Old Men,2007,22,R,Crime|Drama|Thriller,Ethan Coen|Joel Coen,122,8.1
+Octopussy,1983,46,PG,Action|Adventure|Crime|Thriller,John Glen,131,6.5
+Olympus Has Fallen,2013,156,R,Action|Thriller,Antoine Fuqua,119,6.5
+On Deadly Ground,1994,25,R,Action|Adventure|Thriller,Steven Seagal,101,4.1
+On Her Majesty's Secret Service,1969,26,M,Action|Adventure|Crime|Romance|Thriller,Peter R. Hunt,142,6.8
+Once Upon A Time In Mexico,2003,99,R,Action|Thriller,Robert Rodriguez,102,6.3
+Once a Thief,1991,59,R,Action|Comedy|Crime,John Woo,103,6.7
+Operation Delta Force,1997,120,R,Action|Thriller,Sam Firstenberg,93,3.2
+Out For Justice,1991,20,R,Action|Thriller|Crime|Drama,John Flynn,91,5.8
+Out of Sight,1998,9,R,Comedy|Crime|Romance|Thriller,Steven Soderbergh,123,7.0
+Pan's Labyrinth,2006,30,R,Drama|Fantasy|War,Guillermo del Toro,118,8.3
+Paths of Glory,1957,67,Approved,Drama|War,Stanley Kubrick,88,8.5
+Patriot Games,1992,35,R,Action|Crime|Drama|Thriller,Phillip Noyce,117,6.9
+Patton,1970,199,GP,Biography|Drama|History,Franklin J. Schaffner,172,8.0
+Payback,1999,18,R,Action|Crime|Drama|Thriller,Brian Helgeland,100,7.0
+Pearl Harbor,2001,153,PG-13,Action|Drama|Romance|War,Michael Bay,183,5.8
+Pirates of the Caribbean: At World's End,2007,252,PG-13,Action|Adventure|Fantasy,Gore Verbinski,169,7.0
+Pirates of the Caribbean: Curse of the Black Pearl,2003,42,PG-13,Action|Adventure|Fantasy,Gore Verbinski,143,8.1
+Pirates of the Caribbean: Dead Man's Chest,2006,90,PG-13,Action|Adventure|Fantasy,Gore Verbinski,151,7.3
+Plan 9 from Outer Space,1959,7,Unrated,Action|Adventure|Horror|Sci-Fi,Edward D. Wood Jr.,79,3.9
+Planet of the Apes,2001,99,PG-13,Action|Adventure|Sci-Fi,Tim Burton,119,5.7
+Platoon,1986,160,R,Action|Drama|War,Oliver Stone,120,8.2
+Platoon Leader,1988,106,R,War|Drama,Aaron Norris,97,5.1
+Point of No Return,1993,35,R,Action|Crime|Thriller,John Badham,109,5.8
+Poseidon,2006,214,PG-13,Action|Adventure|Drama,Wolfgang Petersen,98,5.6
+Predator,1987,64,R,Action|Adventure|Sci-Fi|Thriller,John McTiernan,107,7.8
+Prince of Jutland,1994,38,R,Adventure|Drama,Gabriel Axel,103,5.8
+Prince of Jutland,1994,38,R,Adventure|Drama,Gabriel Axel,103,5.8
+Pulp,1972,6,PG,Comedy|Crime|Drama|Mystery|Thriller,Mike Hodges,95,6.0
+Pulp Fiction,1994,10,R,Crime|Drama|Thriller,Quentin Tarantino,154,9.0
+Punisher: War Zone,2008,129,R,Action|Crime|Drama,Lexi Alexander,103,6.0
+Push,2009,24,PG-13,Action|Sci-Fi|Thriller,Paul McGuigan,111,6.1
+Raiders of the Lost Ark,1981,84,PG,Action|Adventure,Steven Spielberg,115,8.6
+Rambo,2008,247,R,Action|Thriller|War,Sylvester Stallone,92,7.1
+Rambo III,1988,127,R,Action|Adventure|Thriller,Peter MacDonald,102,5.5
+Rambo: First,1985,67,R,Action|War,George P. Cosmatos,96,6.2
+Ran,1985,182,R,Action|Drama|War,Akira Kurosawa,162,8.3
+Raw Deal,1986,38,R,Action|Crime|Thriller,John Irvin,106,5.3
+Red Dawn,1984,118,PG-13,Action|Adventure|Drama,John Milius,114,6.2
+Red Planet,2000,4,PG-13,Sci-Fi|Action|Thriller,Antony Hoffman,106,5.6
+Red Scorpion,1989,104,R,Action|Adventure,Joseph Zito,105,4.7
+Red Sonja,1985,96,PG-13,Action|Adventure|Fantasy,Richard Fleischer,89,4.8
+Red Sun,1971,92,PG,Thriller|Western,Terence Young,112,6.9
+Reign of Fire,2002,32,PG-13,Action|Adventure|Fantasy|Sci-Fi|Thriller,Rob Bowman,101,6.1
+Reservoir Dogs,1992,12,R,Crime|Thriller,Quentin Tarantino,99,8.4
+Resident Evil: Apocalypse,2004,123,R,Action|Horror|Sci-Fi|Thriller,Alexander Witt,94,6.0
+Resident Evil: Extinction,2007,124,R,Action|Horror|Sci-Fi|Thriller,Russell Mulcahy,94,6.2
+Riders,2002,6,R,Action|Crime|Thriller,Gerard Pires,83,5.4
+Riders,2002,6,R,Action|Crime|Thriller,Gerard Pires,83,5.4
+Ripley's Game,2002,11,R,Crime|Drama|Mystery|Thriller,Liliana Cavani,110,6.6
+Ritana,2002,91,R,Action|Adventure|Sci-Fi,Takashi Yamazaki,116,6.5
+Road House,1989,7,R,Action|Thriller,Rowdy Herrington,114,6.2
+RoboCop,1987,34,R,Action|Crime|Sci-Fi,Paul Verhoeven,102,7.5
+RocknRolla,2008,11,R,Action|Crime|Thriller,Guy Ritchie,114,7.3
+Romeo is Bleeding,1993,15,R,Crime|Drama|Thriller,Peter Medak,100,6.5
+Ronin,1998,34,R,Action|Adventure|Crime|Thriller,John Frankenheimer,122,7.2
+Running Scared,2006,22,R,Action|Crime|Drama|Thriller,Wayne Kramer,122,7.4
+Sabata,1969,90,PG-13,Western,Gianfranco Parolini,111,6.8
+Sahara,2005,68,PG-13,Action|Adventure|Comedy|Thriller|War,Breck Eisner,124,5.9
+Samurai Assassin,1965,94,Unrated,Action|Adventure|Drama,Kihachi Okamoto,122,7.6
+Samurai I: Musashi Miyamoto,1954,50,Unrated,Action|Adventure|Biography,Hiroshi Inagaki,93,7.6
+Saving Private Ryan,1998,255,R,Action|Drama|War,Steven Spielberg,169,8.6
+Scarface,1983,44,R,Crime|Drama,Brian De Palma,170,8.3
+Schindler's List,1993,98,R,Biography|Drama|History,Steven Spielberg,195,8.9
+Screamers,1995,62,R,Action|Adventure|Horror,Christian Duguay,108,6.3
+Secret Window,2004,4,PG-13,Mystery|Thriller,David Koepp,96,6.5
+Secret of NIMH,1982,12,G,Animation|Drama|Family|Fantasy|Sci-Fi,Don Bluth,82,7.5
+Serenity,2005,74,PG-13,Action|Adventure|Sci-Fi|Thriller,Joss Whedon,119,7.9
+Seven Samurai,1954,65,Unrated,Action|Drama,Akira Kurosawa,207,8.8
+Severance,2006,28,R,Comedy|Horror|Thriller,Christopher Smith,96,6.5
+Shaft,2000,22,R,Action|Crime|Thriller,John Singleton,99,5.9
+Shaun of the Dead,2004,60,R,Comedy|Horror,Edgar Wright,99,8.0
+Shoot 'Em Up,2007,151,R,Action|Comedy|Crime|Thriller,Michael Davis,86,6.7
+Shooter,2007,56,R,Action|Crime|Drama,Antoine Fuqua,124,7.1
+Showdown in,1991,48,R,Action|Comedy|Crime|Thriller,Mark L. Lester,79,5.8
+Shutter Island,2010,171,R,Drama|Mystery|Thriller,Martin Scorsese,138,8.0
+Signs,2002,3,PG-13,Drama|Sci-Fi|Thriller,M. Night Shyamalan,106,6.7
+Silent Trigger,1996,35,R,Action|Drama|Thriller,Russell Mulcahy,93,5.4
+Sin City,2005,53,R,Crime|Thriller,Frank Miller|Robert Rodriguez|Quentin Tarantino,124,8.2
+Sleepy Hollow,1999,25,R,Adventure|Mystery,Tim Burton,105,7.4
+Slither,2006,102,R,Horror|Sci-Fi,James Gunn,95,6.5
+Slumdog Millionaire,2008,8,R,Drama|Romance|Thriller,Danny Boyle|Loveleen Tandan,120,8.0
+Smokin' Aces,2007,47,R,Action|Crime|Drama|Thriller,Joe Carnahan,109,6.6
+Snakes on a Plane,2006,60,R,Action|Thriller,David R. Ellis,105,5.6
+Snatch,2000,26,R,Crime|Thriller,Guy Ritchie,104,8.3
+Soldier,1998,77,R,Action|Drama|Sci-Fi,Paul W.S. Anderson,99,5.8
+Spartan,2004,15,R,Action|Crime|Drama|Mystery|Thriller,David Mamet,106,6.6
+Speed,1994,7,R,Action|Crime|Thriller,Jan de Bont,116,7.2
+Star Trek: First Contact,1996,63,PG-13,Action|Adventure|Sci-Fi,Jonathan Frakes,111,7.5
+Star Trek: Nemesis,2002,54,PG-13,Action|Adventure|Sci-Fi|Thriller,Stuart Baird,116,6.4
+Star Wars I: Phantom Menace,1999,34,PG,Action|Adventure|Fantasy|Sci-Fi,George Lucas,136,6.5
+Star Wars II: Attack of the Clones,2002,55,PG,Action|Adventure|Fantasy|Sci-Fi,George Lucas,142,6.7
+Star Wars III: Revenge of the Sith,2005,115,PG-13,Action|Adventure|Fantasy|Sci-Fi,George Lucas,140,7.7
+Star Wars IV: A New Hope,1977,75,PG,Action|Adventure|Fantasy|Sci-Fi,George Lucas,121,8.7
+Star Wars V: Empire Strikes Back,1980,30,PG,Action|Adventure|Sci-Fi,Irvin Kershner,124,8.8
+Star Wars VI: Return of the Jedi,1983,69,PG,Action|Adventure|Fantasy|Sci-Fi,Richard Marquand,134,8.4
+Stardust,2007,22,PG-13,Adventure|Family|Fantasy|Romance,Matthew Vaughn,127,7.7
+Stargate,1994,51,PG-13,Action|Adventure|Sci-Fi,Roland Emmerich,121,6.9
+Starship Troopers,1997,256,R,Action|Sci-Fi,Paul Verhoeven,129,7.1
+Starship Troopers 3: Marauder,2008,171,R,Action|Adventure|Sci-Fi,Edward Neumeier,105,4.4
+Stone Cold,1991,45,R,Action|Crime|Drama,Craig R. Baxley,92,5.6
+Strange Days,1995,12,R,Crime|Drama|Mystery|Sci-Fi|Thriller,Kathryn Bigelow,145,7.1
+Strange Wilderness,2008,15,R,Comedy,Fred Wolf,87,5.2
+Summer of Sam,1999,10,R,Crime|Drama|Romance|Thriller,Spike Lee,142,6.6
+Sunshine,2007,15,R,Adventure|Sci-Fi|Thriller,Danny Boyle,107,7.3
+Super Mario Bros.,1993,8,PG,Adventure|Comedy|Family|Fantasy|Sci-Fi,Annabel Jankel|Rocky Morton,104,3.9
+Superman Returns,2006,10,PG-13,Action|Adventure|Fantasy|Sci-Fi,Bryan Singer,154,6.2
+Sweeney Todd: The Demon Barber of Fleet Street,2007,12,R,Drama|Horror|Musical|Thriller,Tim Burton,116,7.5
+Sweepers,1998,74,R,Action|Adventure|Drama,Keoni Waxman,96,3.4
+Swordfish,2001,41,R,Action|Crime|Thriller,Dominic Sena,99,6.4
+Syriana,2005,11,R,Drama|Thriller,Stephen Gaghan,128,7.0
+TMNT,2007,206,PG,Animation|Action|Adventure,Kevin Munroe,87,6.3
+Tae Guk Gi: The Brotherhood of War,2004,590,R,Action|Drama|War,Je-kyu Kang,140,8.1
+Take a Hard Ride,1975,65,PG,Western,Antonio Margheriti,103,5.8
+Taken,2008,35,PG-13,Action|Crime|Thriller,Pierre Morel,93,7.9
+Tango & Cash,1989,20,R,Action|Comedy|Crime|Thriller,Andrey Konchalovskiy|Albert Magnoli,104,6.2
+Taxi Driver,1976,4,R,Crime|Drama,Martin Scorsese,113,8.4
+Team America: World Police,2004,79,R,Action|Adventure|Comedy|Music,Trey Parker,98,7.2
+Tears of the Sun,2003,83,R,Action|Drama|Thriller,Antoine Fuqua,121,6.5
+Terminator,1984,34,R,Action|Sci-Fi,James Cameron,107,8.1
+Terminator 2: Judgment Day,1991,23,R,Action|Sci-Fi|Thriller,James Cameron,137,8.5
+Terminator 3: Rise of the Machines,2003,14,R,Action|Sci-Fi|Thriller,Jonathan Mostow,109,6.4
+Texas Rangers,2001,84,PG-13,Action|Adventure|Drama,Steve Miner,90,5.1
+The 13th Warrior,1999,61,R,Action|Adventure|Fantasy,John McTiernan,102,6.5
+The Abominable Dr. Phibes,1971,10,GP,Fantasy|Horror,Robert Fuest,94,7.1
+The Adventures of Ford Fairlane,1990,7,R,Action|Adventure|Comedy|Music,Renny Harlin,104,6.0
+The Alamo,2004,249,PG-13,Drama|History|War,John Lee Hancock,137,5.9
+The Bank Job,2008,4,R,Crime|Drama|Thriller,Roger Donaldson,111,7.3
+The Big Hit,1998,38,R,Action|Comedy|Crime|Thriller,Kirk Wong,91,6.0
+The Big Red One,1980,338,R,Action|Drama|War,Samuel Fuller,113,7.3
+The Black Dahlia,2006,13,R,Crime|Drama|Mystery|Thriller,Brian De Palma,121,5.6
+The Boondock Saints,1999,33,R,Action|Crime|Thriller,Troy Duffy,108,7.8
+The Bourne Identity,2002,8,PG-13,Action|Mystery|Thriller,Doug Liman,119,7.9
+The Bourne Supremacy,2004,9,PG-13,Action|Crime|Thriller,Paul Greengrass,108,7.7
+The Bourne Ultimatum,2007,5,PG-13,Action|Crime|Thriller,Paul Greengrass,115,8.1
+The Chronicles of Narnia: Prince Caspian,2008,170,PG,Action|Adventure|Family,Andrew Adamson,150,6.6
+The Chronicles of Riddick,2004,187,Unrated,Action|Adventure|Sci-Fi|Thriller,David Twohy,119,6.6
+The Constant Gardener,2005,18,R,Drama|Mystery|Thriller,Fernando Meirelles,129,7.5
+The Corruptor,1999,37,R,Action|Crime|Drama|Mystery|Thriller,James Foley,110,5.9
+The Count of Monte Cristo,2002,5,PG-13,Action|Adventure|Drama|History|Romance|Thriller,Kevin Reynolds,131,7.7
+The Crow,1994,35,R,Action|Fantasy,Alex Proyas,102,7.6
+The Crucible,1996,12,PG-13,Drama|History,Nicholas Hytner,124,6.8
+The Dark Knight,2008,36,PG-13,Action|Crime|Drama|Thriller,Christopher Nolan,152,9.0
+The Day After Tomorrow,2004,130,PG-13,Action|Adventure|Sci-Fi,Roland Emmerich,124,6.3
+The Departed,2006,21,R,Crime|Drama|Thriller,Martin Scorsese,151,8.5
+The Devil's Rejects,2005,30,Unrated,Horror,Rob Zombie,107,6.8
+The Evil Dead III:,1993,107,R,Comedy|Fantasy|Horror,Sam Raimi,81,7.6
+The Evil Dead III: Army of Darkness,1993,107,R,Comedy|Fantasy|Horror,Sam Raimi,81,7.6
+The Expendables,2010,203,R,Action|Adventure|Thriller,Sylvester Stallone,103,6.5
+The Fifth Element,1997,80,PG-13,Action|Adventure|Sci-Fi,Luc Besson,126,7.6
+The Fly 2,1989,8,R,Horror|Sci-Fi,Chris Walas,105,4.8
+The Fog,1980,6,R,Horror,John Carpenter,89,6.8
+The French Connection,1971,12,R,Action|Crime|Thriller,William Friedkin,104,7.8
+The Fugitive,1993,5,PG-13,Action|Adventure|Crime|Mystery|Thriller,Andrew Davis,130,7.8
+The Good Shepherd,2006,5,R,Drama|History|Thriller,Robert De Niro,167,6.7
+"The Good, the Bad and the Ugly",1966,126,Approved,Crime|Drama|Mystery,Sergio Leone,161,9.0
+The Great Raid,2005,103,R,Action|Drama|War,John Dahl,132,6.7
+The Great Silence,1968,42,Unrated,Western,Sergio Corbucci,105,7.8
+The Guardian,2006,11,PG-13,Action|Adventure|Drama,Andrew Davis,139,6.7
+The Hunt for Red October,1990,7,PG,Action|Adventure|Thriller,John McTiernan,134,7.6
+The Hunted,1995,83,R,Action|Drama|Thriller,J.F. Lawton,111,5.8
+The Hunted,2003,74,R,Action|Crime|Drama,William Friedkin,94,5.9
+The Incredible Hulk,2008,41,PG-13,Action|Sci-Fi|Thriller,Louis Leterrier,112,6.9
+The Incredibles,2004,16,PG,Animation|Action|Adventure|Family,Brad Bird,115,8.0
+The International,2009,18,R,Action|Crime|Drama|Mystery|Thriller,Tom Tykwer,118,6.5
+The Island,2005,12,PG-13,Action|Adventure|Sci-Fi|Thriller,Michael Bay,136,6.8
+The Jackal,1997,11,R,Action|Adventure|Crime|Thriller,Michael Caton-Jones,124,6.2
+The Killer,1989,149,R,Action|Crime|Thriller,John Woo,111,7.9
+The Ladykillers,2004,5,R,Comedy|Crime|Thriller,Ethan Coen|Joel Coen,104,6.1
+The Last Boy Scout,1991,26,R,Action|Comedy|Crime|Mystery|Thriller,Tony Scott,105,6.9
+The Last House on the Left,2009,6,R,Crime|Drama|Thriller,Dennis Iliadis,110,6.6
+The Last Samurai,2003,558,R,Action|Drama|History|War,Edward Zwick,154,7.7
+The Last of the Mohicans,1992,172,PG-13,Action|Adventure|Drama|History|Romance|War,Michael Mann,112,7.8
+The Legend,1993,98,R,Action|Comedy|History,Corey Yuen,100,7.2
+The Legend II,1993,97,R,Action|Adventure|Comedy,Corey Yuen,95,7.0
+The Legend of Zorro,2005,13,PG-13,Action|Adventure|Western,Martin Campbell,129,5.8
+The Long Kiss Goodnight,1996,68,R,Action|Crime|Drama|Mystery|Thriller,Renny Harlin,121,6.7
+The Lookout,2007,7,R,Crime|Drama|Thriller,Scott Frank,99,7.1
+The Lost City,2005,41,R,Drama,Andy Garcia,144,6.6
+The Machine Girl,2008,25,Unrated,Comedy|Horror|Thriller,Noboru Iguchi,96,5.9
+The Magnificent Seven,1960,55,Approved,Western,John Sturges,128,7.8
+The Man with the Golden Gun,1974,6,PG,Action|Adventure|Crime|Thriller,Guy Hamilton,125,6.7
+The Mask of Zorro,1998,26,PG-13,Action|Adventure|Comedy|Romance|Thriller|Western,Martin Campbell,136,6.7
+The Matrix,1999,39,R,Action|Adventure|Sci-Fi,Andy Wachowski|Lana Wachowski,136,8.7
+The Messenger: The Story of Joan of Arc,1999,223,R,Adventure|Biography|Drama,Luc Besson,148,6.3
+The Mist,2007,46,R,Horror|Sci-Fi|Thriller,Frank Darabont,126,7.2
+The Mummy,1999,155,PG-13,Action|Adventure|Fantasy,Stephen Sommers,125,6.9
+The Mummy Returns,2001,137,PG-13,Action|Adventure|Fantasy,Stephen Sommers,130,6.3
+The Musketeer,2001,56,PG-13,Action|Drama|Adventure|Romance,Peter Hyams,104,4.6
+The New World,2005,28,PG-13,Biography|Drama|History|Romance,Terrence Malick,135,6.7
+The Number 23,2007,10,R,Drama|Mystery|Thriller,Joel Schumacher,101,6.3
+The Omen,2006,8,R,Horror|Mystery|Thriller,John Moore,110,5.5
+The Outlaw Josey Wales,1976,120,PG,Western,Clint Eastwood,135,7.9
+The Patriot,1998,42,R,Action|Thriller,Dean Semler,90,3.9
+The Patriot,2000,123,R,Action|Drama|War,Roland Emmerich,165,7.0
+The Phantom of the Opera,2004,3,PG-13,Drama|Musical|Romance,Joel Schumacher,143,7.3
+The Pianist,2002,70,R,Biography|Drama|History,Roman Polanski,150,8.5
+The Prestige,2006,7,PG-13,Drama|Mystery|Thriller,Christopher Nolan,130,8.5
+The Punisher,1989,96,R,Action|Crime|Drama,Mark Goldblatt,89,5.5
+The Punisher,2004,66,R,Action|Crime|Drama,Jonathan Hensleigh,124,6.4
+The Replacement Killers,1998,38,R,Action|Crime|Drama|Thriller,Antoine Fuqua,87,6.0
+The Rock,1996,24,R,Action|Adventure|Thriller,Michael Bay,136,7.4
+The Rundown,2003,46,PG-13,Action|Adventure|Comedy|Thriller,Peter Berg,104,6.6
+The Running Man,1987,41,R,Action|Sci-Fi|Thriller,Paul Michael Glaser,101,6.6
+The Scorpion King,2002,105,PG-13,Action|Adventure|Fantasy|Thriller,Chuck Russell,92,5.4
+The Shawshank Redemption,1994,4,R,Crime|Drama,Frank Darabont,142,9.3
+The Signal,2007,78,R,Horror|Sci-Fi|Thriller,David Bruckner|Jacob Gentry|Dan Bush,103,6.1
+The Silence of the Lambs,1991,8,R,Crime|Drama|Thriller,Jonathan Demme,118,8.6
+The Spy Who Loved Me,1977,73,PG,Action|Adventure|Crime|Thriller,Lewis Gilbert,125,7.0
+The Sword of Doom,1966,119,Unrated,Action|Drama,Kihachi Okamoto,119,8.0
+The Thin Red Line,1998,167,R,Drama|War,Terrence Malick,170,7.6
+The Thing,1982,21,R,Horror|Mystery|Sci-Fi|Thriller,John Carpenter,109,8.2
+The Third Man,1949,4,Approved,Film-Noir|Mystery|Thriller,Carol Reed,104,8.4
+The Transporter,2002,8,PG-13,Action|Crime|Thriller,Corey Yuen,92,6.8
+The Tripper,2006,56,R,Horror,David Arquette,93,5.1
+The Usual Suspects,1995,39,R,Crime|Mystery|Thriller,Bryan Singer,106,8.7
+The Way of the Gun,2000,18,R,Action|Crime|Drama|Thriller,Christopher McQuarrie,119,6.7
+The Wild Bunch,1969,145,R,Western,Sam Peckinpah,145,8.0
+The Yakuza,1974,31,R,Action|Crime|Drama|Thriller,Sydney Pollack,123,7.3
+The Yards,2000,2,R,Crime|Drama|Romance|Thriller,James Gray,115,6.4
+There Will Be Blood,2007,4,R,Drama,Paul Thomas Anderson,158,8.1
+Things to Do in Denver When You're Dead,1995,15,R,Crime|Drama,Gary Fleder,115,6.8
+Three the Hard Way,1974,128,R,Action|Thriller,Gordon Parks Jr.,89,6.4
+Thunderball,1965,47,Approved,Action|Adventure|Crime|Thriller,Terence Young,130,7.0
+Timeline,2003,65,PG-13,Action|Adventure|Sci-Fi,Richard Donner,116,5.5
+Titanic,1997,307,PG-13,Drama|Romance,James Cameron,194,7.6
+To Die For,1995,2,R,Comedy|Crime|Drama,Gus Van Sant,106,6.7
+Tombstone,1993,55,R,Action|Drama|History|Romance|Western,George P. Cosmatos|Kevin Jarre,130,7.8
+Tomorrow Never Dies,1997,55,PG-13,Action|Adventure|Crime,Roger Spottiswoode,119,6.4
+Total Recall,1990,77,R,Action|Adventure|Sci-Fi,Paul Verhoeven,113,7.5
+Transformers,2007,103,PG-13,Action|Adventure|Sci-Fi,Michael Bay,144,7.1
+Transformers: The Movie,1986,47,PG,Animation|Action|Adventure|Family|Sci-Fi,Nelson Shin,84,7.2
+Transporter 2,2005,11,PG-13,Action|Crime|Thriller,Louis Leterrier,87,6.2
+Troy,2004,572,R,Adventure|Drama,Wolfgang Petersen,163,7.1
+True Lies,1994,71,R,Action|Thriller,James Cameron,141,7.2
+True Romance,1993,21,R,Crime|Thriller,Tony Scott,120,7.9
+Two Mules for Sister Sara,1970,107,M,Adventure|Comedy|War,Don Siegel,116,7.0
+UHF,1989,36,PG-13,Comedy,Jay Levey,97,6.9
+Unbreakable,2000,4,PG-13,Drama|Mystery|Sci-Fi|Thriller,M. Night Shyamalan,106,7.2
+Under Siege,1992,65,R,Action|Thriller,Andrew Davis,103,6.4
+Under Siege 2,1995,47,R,Action|Thriller,Geoff Murphy,100,5.3
+Underworld,2003,58,R,Action|Fantasy|Thriller,Len Wiseman,121,6.9
+Underworld: Evolution,2006,75,R,Action|Fantasy|Sci-Fi|Thriller,Len Wiseman,106,6.7
+Universal Soldier,1992,47,R,Action|Drama|Sci-Fi,Roland Emmerich,102,5.9
+Van Helsing,2004,65,PG-13,Action|Adventure|Fantasy,Stephen Sommers,131,5.8
+Waist Deep,2006,6,R,Action|Crime|Drama|Thriller,Vondie Curtis-Hall,97,5.8
+Walk Hard: The Dewey Cox Story,2007,5,R,Comedy|Drama|Music,Jake Kasdan,96,6.7
+Walking Tall,2004,6,PG-13,Action|Crime,Kevin Bray,86,6.1
+Wanted,2008,57,R,Action|Crime|Thriller,Timur Bekmambetov,110,6.7
+War,2007,97,R,Action|Crime|Thriller,Philip G. Atwell,103,6.2
+War of the Worlds,2005,52,PG-13,Documentary|History,Steven Spielberg,116,6.5
+"War, Inc.",2008,73,R,Action|Comedy|Thriller,Joshua Seftel,107,5.6
+Warriors of the Wasteland ,1983,89,R,Action|Sci-Fi|Thriller,Enzo G. Castellari,91,4.4
+Wasabi,2001,22,R,Action|Drama|Comedy|Crime|Thriller,Gerard Krawczyk,94,6.5
+Watchmen,2009,77,R,Action|Drama|Mystery,Zack Snyder,162,7.6
+Waterloo,1970,210,G,Action|Drama|History,Sergey Bondarchuk,123,7.2
+Waterworld,1995,67,PG-13,Action|Adventure|Sci-Fi,Kevin Reynolds,135,6.0
+We Were Soldiers,2002,305,R,Action|Drama|History|War,Randall Wallace,138,7.0
+Where Eagles Dare,1968,100,M,Action|Adventure|War,Brian G. Hutton,158,7.6
+Wild Wild West,1999,95,PG-13,Action|Western|Comedy,Barry Sonnenfield,106,4.7
+Windtalkers,2002,389,R,Action|Drama|War,John Woo,134,5.9
+Yojimbo,1961,61,Unrated,Action|Adventure,Akira Kurosawa,110,8.4
+You Kill Me,2007,10,R,Comedy|Crime|Romance|Thriller,John Dahl,93,6.5
+You Only Live Twice,1967,91,Approved,Action|Adventure|Crime|Thriller,Lewis Gilbert,117,6.9
+Zatoichi,2003,81,R,Action|Comedy|Crime,Takeshi Kitano,116,7.6
+Zodiac,2007,3,R,Crime|Drama|Mystery|Thriller,David Fincher,157,7.7
+Zombieland,2009,109,R,Comedy|Horror,Ruben Fleischer,88,7.7
+Zoolander,2001,4,PG-13,Comedy,Ben Stiller,89,6.5
+Zulu,1964,140,Unrated,Drama|History|War,Cy Endfield,138,7.8
