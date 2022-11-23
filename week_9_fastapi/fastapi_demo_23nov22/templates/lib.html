@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title> List of Books </title>
+    </head>
+    <body>
+        <ol>
+            {% for book in books %}
+            <li>
+                <a href="{{ url_for('static', path='/lib/' + book)}}">
+                    {{ book }}
+                </a>
+            </li>
+            {% endfor %}
+        </ol>
+    </body>
+</html>
